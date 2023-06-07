@@ -1,0 +1,35 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(63, 63, 63);
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    margin:10px 20px 10 px 20px;
+    padding: 10px 20px;
+    color: rgb(201, 201, 201);
+    font-size: 50px;
+    font-family: cursive;
+}
+
+img{
+    width: 80%;
+}
+
+footer{
+    text-align: center;
+    color: beige;
+}
+
+p{
+    color: beige;
+}
